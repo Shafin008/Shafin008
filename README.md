@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shafin Mahmud Jalal</h1>
 <p align="center">🔧 I hold a BSc in Mechanical Engineering from RUET and have always been passionate about engineering and technology. In 2015, I founded Team Crack Platoon, an international automotive team that became the first in Bangladesh to design and build both a Formula Student car in the fuel category and a Formula Student car in the electric category. This was an exciting journey that fueled my love for innovation and problem-solving.</p> <p align="center">🚗 After my experience in motorsport engineering, I shifted my focus to the rapidly evolving field of AI in late 2020. I am currently pursuing my Master’s thesis on Meta-learning at Brac University, diving deep into the world of machine learning and its applications.</p> <p align="center">📚 I’m always eager to learn and collaborate on cutting-edge projects that blend engineering with AI. Feel free to explore my repositories, and don’t hesitate to reach out if you're interested in collaborating or just discussing the latest trends in tech!</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafin008&label=Profile%20views&color=0e75b6&style=flat" alt="shafin008" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafin008" alt="shafin008" /></a> </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Programming Languages:</h4>
