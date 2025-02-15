@@ -50,6 +50,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafin008&show_icons=true&locale=en" alt="shafin008" /></p> <p></p> <p></p> <p></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafin008&" alt="shafin008" /></p> <p></p> <p></p> <p></p>
 
 
